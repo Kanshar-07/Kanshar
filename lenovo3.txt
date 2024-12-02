@@ -1,0 +1,10 @@
+import java.io.*; 
+import java.util.*; 
+
+
+public class SOlution { 
+	public static void main(String[]args) { 
+	// This is java code which i provided here 
+
+}
+}
